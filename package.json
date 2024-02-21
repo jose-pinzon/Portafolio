@@ -1,0 +1,11 @@
+{
+  "name": "portasfolio_web",
+  "version": "1.0.0",
+  "description": "Este es mi portafolio que evidencia mis conocimientos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose",
+  "license": "ISC"
+}
